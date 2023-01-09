@@ -1,5 +1,5 @@
 import React from "react";
-// import Chart from "react-apexcharts";
+import Chart from "react-apexcharts";
 
 const Overview = () => {
   const data = {
@@ -67,9 +67,9 @@ const Overview = () => {
         </span>
       </div>
       
-      {/* <div className="CustomerReview">
+      <div className="CustomerReview">
         <Chart options={data.options} series={data.series} type="area" />
-      </div> */}
+      </div>
       <div className='flex flex-row space-x-12  ml-11 text-3xl font-sans font-extrabold' >
         <div className="e1">125</div>
         <div className="e1">14K</div>
