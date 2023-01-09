@@ -1,7 +1,7 @@
 import React from "react";
-import { BiBell } from "react-icons/Bi";
-import { RiEnglishInput } from "react-icons/Ri";
-import { RiArrowDropDownLine } from "react-icons/Ri";
+import { BiBell } from "react-icons/bi";
+import { RiEnglishInput } from "react-icons/ri";
+import { RiArrowDropDownLine } from "react-icons/ri";
 import UserAv from "../RightBar/userav.png";
 import Image from "next/image";
 import Transaction from "./Transaction";
