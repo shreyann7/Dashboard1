@@ -1,0 +1,13 @@
+.CompactCard {
+    display: flex;
+    height: 17rem ;
+    width: 12rem;
+    border-radius: 0.7rem;
+    color: black;
+    position: relative;
+    cursor: pointer;
+  }
+
+  .CompactCard :hover {
+    box-shadow: none ;
+  }

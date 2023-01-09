@@ -1,0 +1,26 @@
+.weather-section{
+    display: flex;
+    gap: 50%;
+}
+
+.date{
+    background: white;
+    padding: 0.5rem;
+}
+
+.w-t{
+    margin-top: 3rem;
+    height: 7rem;
+    width: 45rem;
+    /* background: white; */
+    gap: 4rem;
+}
+
+.woc{
+    background-color: orange;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 2px;
+    box-shadow: rgb(227, 186, 111);
+}
+

@@ -1,0 +1,20 @@
+.tp-1{
+    margin-top: 3.5rem;
+    margin-left: 15rem;
+}
+
+.credit-card{
+    background-color: rgb(233, 140, 155);
+    height: 15rem;
+    margin-right: 2.5rem;
+    margin-top: 1rem;
+    margin-bottom: 2rem ;
+    box-shadow: 0px 10px 20px 0px #FDC0C7 ;
+    cursor: pointer;
+}
+
+
+.ls{
+    margin-right: 2px;
+    gap:20px;
+}
