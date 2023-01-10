@@ -35,8 +35,12 @@
   .HomeGlass{
     /* DISPLAY GRID */
     display: grid;
-    height: 87%;
-    width: 95%;
+    /* height: 87%; */
+    /* width: 95%; */
+    padding-bottom: 4rem;
+    padding-right: 2rem;
+    /* width: initial; */
+    /* width: auto; */
     border-radius: 3rem;
     background-color: var(--glass);
     overflow: hidden;
