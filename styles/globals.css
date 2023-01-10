@@ -23,8 +23,8 @@
         #ffcfd1 51.55%,
         #f3c6f1 90.85%
     );
-    /* height: auto; */
-    height: 170vh;
+    height: auto;
+    height: 165vh;
     /* DISPLAY FLEX */
     display: flex; 
     align-items: center;
@@ -35,10 +35,11 @@
   .HomeGlass{
     /* DISPLAY GRID */
     display: grid;
-    /* height: 87%; */
-    /* width: 95%; */
-    padding-bottom: 4rem;
-    padding-right: 2rem;
+    height: 87%;
+    /* margin-top: 4rem; */
+    width: 95%;
+    /* padding-bottom: 4rem; */
+    /* padding-right: 2rem; */
     /* width: initial; */
     /* width: auto; */
     border-radius: 3rem;
